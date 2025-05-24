@@ -1,6 +1,4 @@
 # Home
 
-Welcome to my site.
-
-- [About](about.md)
-- [Installation Guide](guide/install.md)
+- [Build 1](my-builds/build1.md)
+- [Build 2](my-builds/build2.md)
